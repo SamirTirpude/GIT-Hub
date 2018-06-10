@@ -6,4 +6,4 @@ public class add {
 		int b=20;
 		System.out.println(a+b);
 	}//main
-}//clas
+}//class
